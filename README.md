@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bouhzila Ahmed
-- 👀 I’m interested in Game and Web dev
+- 👀 I’m interested Web dev
 - 🌱 I’m currently learning Web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bouhzilaamed2@gmail.com
